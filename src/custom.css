@@ -1,0 +1,29 @@
+.site-Header {
+  background: rgb(47, 101, 204);
+  background: linear-gradient(
+    270deg,
+    rgba(47, 101, 204, 1) 0%,
+    rgba(47, 75, 129, 1) 21%
+  );
+  padding: 15px;
+  text-align: center;
+  margin: auto;
+  color: white;
+  font-size: 40px;
+  height: 2rem;
+}
+
+.site-Footer {
+  background: rgb(47, 101, 204);
+  background: linear-gradient(
+    270deg,
+    rgba(47, 101, 204, 1) 0%,
+    rgba(47, 75, 129, 1) 21%
+  );
+  color: white;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 2rem;
+}
